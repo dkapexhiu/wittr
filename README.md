@@ -1,6 +1,6 @@
 # Wittr
 
-This is a silly little demo app for an offline-first course.
+This is a little demo app for an offline-first course about Service Workers and IndexDB teached at Google Developer Challenge: Mobile Web.
 
 # Installing
 
